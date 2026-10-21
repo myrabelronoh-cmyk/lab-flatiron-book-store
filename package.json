@@ -5,6 +5,7 @@
   "description": "Static Page & Pine bookstore catalog",
   "scripts": {
     "lint": "eslint script.js",
+    "test": "npm run test:lab",
     "test:lab": "npm test --prefix lab-flatiron-book-store"
   },
   "devDependencies": {
