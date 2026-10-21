@@ -1,0 +1,14 @@
+{
+  "name": "page-and-pine-bookstore",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Page & Pine bookstore catalog",
+  "scripts": {
+    "lint": "eslint script.js",
+    "test:lab": "npm test --prefix lab-flatiron-book-store"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.13.0"
+  }
+}
